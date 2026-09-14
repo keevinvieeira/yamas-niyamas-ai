@@ -1,0 +1,34 @@
+# 📚 Repositório de Fichamentos Acadêmicos
+
+> Este diretório armazena os registros sistemáticos de leitura das obras que compõem o corpus teórico da pesquisa.
+
+---
+
+## 🧭 Como Utilizar
+
+1. **Para Criar um Novo Fichamento:**
+   - Duplique o arquivo base [`template_fichamento.md`](./template_fichamento.md).
+   - Nomeie o novo arquivo com o padrão: `AAAA-sobrenome_autor-titulo_curto.md`  
+     *Exemplo:* `2009-bryant-yoga_sutras.md`
+   - Preencha com rigor todas as seções, especialmente a **Ponte Teórica com Alinhamento de IA**.
+   - Submeta um Pull Request conforme as regras do [`CONTRIBUTING.md`](../CONTRIBUTING.md).
+
+---
+
+## 🗂️ Índice de Fichamentos por Eixo Disciplinar
+
+### 1. Filosofia Indiana Clássica (Segundas-feiras)
+- `[Em breve]` *Bryant, Edwin (2009) — The Yoga Sutras of Patanjali (Livro I)*
+- `[Em breve]` *Feuerstein, Georg (2001) — The Philosophy of Classical Yoga*
+
+### 2. Filosofia da Tecnologia e Informação (Terças-feiras)
+- `[Em breve]` *Vallor, Shannon (2016) — Technology and the Virtues*
+- `[Em breve]` *Floridi, Luciano (2011) — The Philosophy of Information*
+
+### 3. Engenharia de Alinhamento e LLMs (Quartas-feiras)
+- `[Em breve]` *Bai, Yuntao et al. (2022) — Constitutional AI: Harmlessness from AI Feedback*
+- `[Em breve]` *Russell, Stuart (2019) — Human Compatible*
+
+### 4. Filosofia Comparada e Tecnodiversidade (Quintas-feiras)
+- `[Em breve]` *Hui, Yuk (2016) — The Question Concerning Technology in China*
+- `[Em breve]` *Hongladarom, Soraj (2020) — The Ethics of AI in Asia*
