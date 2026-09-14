@@ -18,7 +18,7 @@
 ## 🗂️ Índice de Fichamentos por Eixo Disciplinar
 
 ### 1. Filosofia Indiana Clássica (Segundas-feiras)
-- `[Em breve]` *Bryant, Edwin (2009) — The Yoga Sutras of Patanjali (Livro I)*
+- ✅ [`2009-bryant-yoga_sutras_intro_pramanas.md`](./2009-bryant-yoga_sutras_intro_pramanas.md) — *Bryant, Edwin (2009): The Yoga Sutras of Patanjali (Introdução & Livro I — A Epistemologia dos Pramāṇas)*
 - `[Em breve]` *Feuerstein, Georg (2001) — The Philosophy of Classical Yoga*
 
 ### 2. Filosofia da Tecnologia e Informação (Terças-feiras)
