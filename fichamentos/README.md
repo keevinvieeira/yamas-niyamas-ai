@@ -32,3 +32,9 @@
 ### 4. Filosofia Comparada e Tecnodiversidade (Quintas-feiras)
 - `[Em breve]` *Hui, Yuk (2016) — The Question Concerning Technology in China*
 - `[Em breve]` *Hongladarom, Soraj (2020) — The Ethics of AI in Asia*
+
+### 5. Física Quântica, Consciência e Ontologia da Mente (Estudos Transversais)
+- `[Em breve]` *Penrose, Roger (1989) — The Emperor's New Mind (A Mente Não-Computável)*
+- `[Em breve]` *Hameroff, Stuart & Penrose, Roger (2014) — Consciousness in the Universe (A Teoria Orch-OR)*
+- `[Em breve]` *Bohm, David (1980) — Wholeness and the Implicate Order (A Ordem Implicada e o Holomovimento)*
+- `[Em breve]` *Schrödinger, Erwin (1944) — What is Life? with Mind and Matter (Vedanta e Mecânica Quântica)*

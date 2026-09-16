@@ -167,3 +167,11 @@
 ### 5. Documentos Institucionais e Diretrizes Normativas
 - **IEEE SA** (2019). *Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems*. First Edition.
 - **UNESCO** (2021). *Recommendation on the Ethics of Artificial Intelligence*. Paris: UNESCO.
+
+### 6. Física Quântica, Consciência e Ontologia da Mente
+- **Bohm, David** (1980). *Wholeness and the Implicate Order*. London: Routledge.
+- **Capra, Fritjof** (1975). *The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism*. Shambhala Publications.
+- **Hameroff, Stuart & Penrose, Roger** (2014). "Consciousness in the universe: A review of the 'Orch OR' theory". *Physics of Life Reviews*, 11(1), 39–78.
+- **Penrose, Roger** (1989). *The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics*. Oxford University Press.
+- **Rovelli, Carlo** (2021). *Helgoland: Making Sense of the Quantum Revolution*. Riverhead Books.
+- **Schrödinger, Erwin** (1944). *What is Life? with Mind and Matter*. Cambridge University Press.
