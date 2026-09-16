@@ -22,7 +22,7 @@
 - `[Em breve]` *Feuerstein, Georg (2001) — The Philosophy of Classical Yoga*
 
 ### 2. Filosofia da Tecnologia e Informação (Terças-feiras)
-- `[Em breve]` *Vallor, Shannon (2016) — Technology and the Virtues*
+- ✅ [`2016-vallor-technology_and_virtues.md`](./2016-vallor-technology_and_virtues.md) — *Vallor, Shannon (2016): Technology and the Virtues (A Ética das Virtudes Tecnomorais)*
 - `[Em breve]` *Floridi, Luciano (2011) — The Philosophy of Information*
 
 ### 3. Engenharia de Alinhamento e LLMs (Quartas-feiras)
