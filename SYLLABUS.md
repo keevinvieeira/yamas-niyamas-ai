@@ -14,7 +14,7 @@
 | **Segunda-feira** | **Filosofia Indiana Clássica** | *Yoga Sutras*, comentadores canônicos (*Vyasa, Shankara*), metafísica Samkhya e epistemologia (*Pramanas*). | Fichamento analítico do aforismo/comentário. |
 | **Terça-feira** | **Filosofia da Tecnologia** | Ética das virtudes na tecnologia, ontologia da informação, responsabilidade ética e agência moral dos artefatos. | Fichamento conceitual com foco em virtudes computacionais. |
 | **Quarta-feira** | **Engenharia de Alinhamento** | Treinamento de LLMs, RLHF, RLAIF, *Constitutional AI*, calibração epistêmica, mitigação de alucinações e *red teaming*. | Análise técnica de papers de alinhamento. |
-| **Quinta-feira** | **Filosofia Comparada** | Desocidentalização da ética da IA, tecnodiversidade, cosmotécnica, perspectivas budistas e védicas sobre cognição. | Síntese comparativa transcultural. |
+| **Quinta-feira** | **Filosofia Comparada & Pensamento Chinês** | Desocidentalização da IA, pensamento clássico chinês (*Taoismo e Confucionismo: Wu Wei, Zhengming, Yi, Jian, Zizu*), cosmotécnica (Yuk Hui) e governança na Ásia Oriental. | Síntese comparativa tripartite e mapeamento conceitual. |
 | **Sexta-feira** | **Laboratório & Escrita** | Síntese semanal, elaboração de *system prompts*, testes de respostas e atualização do repositório. | Atualização de docs, issues e registro empírico. |
 
 ---
@@ -52,45 +52,46 @@
 
 ### 🔹 Semestre 2 (Meses 07 a 12): Desocidentalização, Mecânica Técnica e Capítulos Iniciais
 
-- **Mês 07 — Filosofia Comparada e Tecnodiversidade**
-  - A necessidade de desocidentalizar os marcos éticos de IA: crítica ao utilitarismo e principialismo euro-atlântico hegemônico.
-  - Conceito de cosmotécnica e multiplicidade ontológica.
-  - Leituras: Yuk Hui (2016, *The Question Concerning Technology in China*; 2021); Soraj Hongladarom (2020, *The Ethics of AI in Asia*); Charles Ess (2020).
+- **Mês 07 — Filosofia Comparada, Pensamento Clássico Chinês e Tecnodiversidade**
+  - A necessidade de desocidentalizar os marcos éticos de IA: superação da polarização utilitarismo vs. deontologia.
+  - O pensamento chinês como matriz de alinhamento: Taoismo (*Wu Wei, Ziran, Jian, Zizu*) e Confucionismo (*Zhengming, Yi, Zhongyong, Tian Ren He Yi*).
+  - Cosmotécnica, soberania tecnológica e a geopolítica de governança de IA entre o Vale do Silício e a China.
+  - Leituras: Yuk Hui (2016, *The Question Concerning Technology in China*; 2021); Confúcio (*Analectos*); Laozi (*Tao Te Ching*); Soraj Hongladarom (2020).
 - **Mês 08 — *Constitutional AI* e Autocorreção Dirigida (RLAIF)**
   - O método Anthropic: princípios constitucionais como balizadores para autoavaliação de modelos via RLAIF (*from AI Feedback*).
   - Análise crítica dos princípios da Constituição do Claude e suas limitações de virtude ativa.
   - Leituras: Bai et al. (2022, *Constitutional AI: Harmlessness from AI Feedback*); Anthropic (2023).
 - **Mês 09 — Epistemologia da Veracidade (*Satya*) vs. Alucinação de LLMs**
   - Alucinações epistêmicas, calibração de confiança (*overconfidence*), elicitação de incerteza e *Retrieval-Augmented Generation* (RAG).
-  - Como a definição sânscrita de *Satya* (verdade ligada ao bem-estar e livre de engano) refina o conceito de "grounding" e "truthfulness".
+  - Como a definição sânscrita de *Satya* e a retificação dos nomes (*Zhengming*) refinam o conceito de "grounding" e "truthfulness".
   - Leituras: Lin et al. (2021, TruthfulQA); Evans et al. (2021); Ji et al. (2023, Survey on Hallucination).
 - **Mês 10 — Propriedade Intelectual, Extração de Dados e *Asteya / Aparigraha***
   - Treinamento em larga escala, direitos autorais, consentimento informacional e soberania de dados.
-  - *Asteya* (não-roubo) e *Aparigraha* (não-acumulação) como princípios de governança de datasets e retenção de memória de contexto.
+  - *Asteya* (não-roubo), *Yi* (justiça estrutural) e *Aparigraha* (não-acumulação) como princípios de governança de datasets e retenção de contexto.
   - Leituras: UNESCO (2021, *Recommendation on the Ethics of AI*); Solaiman et al. (2023).
 - **Mês 11 — Padrões Globais de Governança de Sistemas Autônomos**
-  - Normas internacionais e padrões de engenharia ética: IEEE 7000 e iniciativas de alinhamento responsável.
+  - Normas internacionais e padrões de engenharia ética: IEEE 7000 e iniciativas globais (EUA, União Europeia e China/CAICT).
   - Leituras: IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems (2019); Floridi et al. (2018, AI4People).
 - **Mês 12 — 🏁 Marco 2: Redação e Consolidação dos Capítulos 1 e 2**
-  - **Capítulo 1:** Fundamentação Filosófica (Os *Yoga Sutras*, a tradição de comentários e a ética dos Yamas e Niyamas).
-  - **Capítulo 2:** O Panorama Atual do Alinhamento de LLMs (Limites da *safety* negativa e a carência de virtudes operacionais).
+  - **Capítulo 1:** Fundamentação Filosófica (Os *Yoga Sutras*, o pensamento clássico chinês e a ética das virtudes orientais).
+  - **Capítulo 2:** O Panorama Atual do Alinhamento de LLMs (Limites da *safety* negativa, formulações de controle e a carência de virtudes operacionais).
 
 ---
 
 ### 🔹 Semestre 3 (Meses 13 a 18): Framework Proposto, Laboratório e Qualificação
 
-- **Mês 13 — Formalização da Matriz Yamas/Niyamas $\times$ Engenharia de Prompt**
-  - Mapeamento sistemático de cada um dos 10 preceitos em regras declarativas conversacionais:
-    - *Ahimsa* $\to$ Mitigação de dano sem condescendência ou recusa cega (*sycophancy / over-refusal*).
-    - *Satya* $\to$ Calibração honesta de incerteza (admissão de desconhecimento, distinção fato/conjectura).
-    - *Asteya* $\to$ Atribuição explícita de crédito epistemológico a fontes e autores.
-    - *Brahmacharya* $\to$ Eficiência informacional, sobriedade e parcimônia na geração de tokens.
-    - *Aparigraha* $\to$ Privacidade de dados, abstenção de retenção desnecessária de perfis.
-    - *Saucha* $\to$ Higiene de dados de entrada/saída e filtragem de ruído.
-    - *Santosha* $\to$ Aceitação transparente das limitações e fronteiras ontológicas do modelo.
-    - *Tapas* $\to$ Robustez a ataques adversariais e resiliência interpretativa sob estresse.
-    - *Svadhyaya* $\to$ Explicabilidade e autoexame da cadeia de raciocínio (*Chain-of-Thought* auditável).
-    - *Ishvara Pranidhana* $\to$ Subordinação ao florescimento humano e bem comum universal.
+- **Mês 13 — Formalização da Matriz Tripartite: Yamas/Niyamas $\times$ Filosofia Chinesa $\times$ Teoria de Controle de IA**
+  - Mapeamento formal dos 10 eixos de convergência algorítmica e matemática:
+    - *Ahimsa & Wu Wei* $\to$ Preservação de utilidade atingível (*AUP*) e penalização de perturbação colateral.
+    - *Satya & Zhengming* $\to$ Calibração de incerteza epistêmica e predição conformal contra alucinações.
+    - *Asteya & Yi* $\to$ Invariantes de fronteira de permissão e sandboxing de privilégios.
+    - *Brahmacharya & Jian* $\to$ Regularização $L_1/L_2$, Green AI e restrições de orçamento computacional.
+    - *Aparigraha & Zizu* $\to$ Inibição de busca de poder instrumental em CMDPs com multiplicadores de Lagrange.
+    - *Saucha & Qing Jing* $\to$ Sanitização de dados e mitigação de colapso de modelo por autoingestão sintética.
+    - *Santosha & Zhongyong* $\to$ Critérios de parada precoce (*Early Stopping*) e heurística de *Satisficing*.
+    - *Tapas & Xiu Lian / Gongfu* $\to$ Otimização minimax adversarial e resiliência sob perturbação.
+    - *Svadhyaya & Nei Guan* $\to$ Interpretabilidade mecanicista de circuitos e *Chain-of-Thought* auditável.
+    - *Ishvara Pranidhana & Tian Ren He Yi* $\to$ Corrigibilidade estrita e interrompibilidade segura (*Off-switch*).
 - **Mês 14 — Engenharia dos *System Prompts* Constitucionais**
   - Desenvolvimento e versionamento de templates em `laboratorio_prompts/system_prompts/`.
   - Construção de prompts modulares com guardrails dinâmicos.

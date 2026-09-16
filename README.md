@@ -4,16 +4,18 @@
 
 ---
 
-## 🎯 Visão Geral e Hipótese
+## 🎯 Visão Geral, Hipótese e a Terceira Via Epistemológica
 
-Modelos contemporâneos de alinhamento de IA (como os princípios descritos em [Claude's Constitution - Anthropic](https://www.anthropic.com/constitution)) focam predominantemente em contenções externas de danos (*safety* negativa). Esta pesquisa propõe uma matriz complementar baseada nos **Yamas** (restrições relacionais) e **Niyamas** (disciplinas internas de aperfeiçoamento) descritos nos *Yoga Sutras*, conectando o rigor filosófico clássico aos desafios práticos da engenharia de linguagem artificial:
+Modelos contemporâneos de alinhamento de IA (como os princípios descritos em [Claude's Constitution - Anthropic](https://www.anthropic.com/constitution)) focam predominantemente em contenções externas de danos (*safety* negativa) e regras deônticas ocidentais. Em resposta a essa limitação e diante da corrida tecnológica global compartilhada entre o **Vale do Silício** e a **Ásia Oriental (China)**, esta pesquisa formula uma **Terceira Via Epistemológica e Geopolítica**:
 
-- **Ahimsa:** Mitigação de danos e toxicidade conversacional.
-- **Satya:** Factualidade, veracidade e calibração honesta de incertezas epistêmicas.
-- **Asteya:** Transparência de dados e respeito a fontes intelectuais humanas.
-- **Brahmacharya:** Sobriedade, moderação e eficiência de contexto.
-- **Aparigraha:** Minimização e respeito à soberania de dados do usuário.
-- **Saucha, Santosha, Tapas, Svadhyaya e Ishvara Pranidhana:** Higiene de dados, aceitação serena de limites operacionais, rigor em testes adversariais, interpretabilidade/explicabilidade e alinhamento a valores humanos universais ([UNESCO Recommendation on AI Ethics](https://academy.evalcommunity.com/unesco-recommendation-on-ai-ethics/)).
+A convergência entre a ética de contenção védica dos **Yamas e Niyamas** (Patañjali), as categorias ontológicas da **Filosofia Clássica Chinesa** (*Taoismo e Confucionismo: Wu Wei, Zhengming, Yi, Jian, Zizu*) e os formalismos matemáticos da **Teoria de Controle e Aprendizado por Reforço Seguro** (*Safe RL, CMDPs, Conformal Prediction* e Interpretabilidade Mecanicista).
+
+- **Ahimsa & Wu Wei (無為):** Mitigação de danos e preservação de utilidade atingível (*Attainable Utility Preservation*).
+- **Satya & Zhengming (正名):** Retificação dos nomes, calibração honesta de incertezas e predição conformal contra alucinações.
+- **Asteya & Yi (義):** Justiça estrutural, integridade de autoria humana e invariantes de fronteira de privilégios.
+- **Brahmacharya & Jian (儉):** Sobriedade, economia de *Qi* e regularização esparsa de recursos computacionais (*Green AI*).
+- **Aparigraha & Zizu (知足):** Não-acumulação desapegada e inibição matemática de busca por poder instrumental em CMDPs.
+- **Saucha, Santosha, Tapas, Svadhyaya e Ishvara Pranidhana:** Saneamento de dados (*Qing Jing*), doutrina do meio (*Zhongyong*), resiliência adversarial minimax (*Xiu Lian*), autoexame mecanicista (*Nei Guan*) e corrigibilidade estrita perante o bem comum (*Tian Ren He Yi*).
 
 ---
 
