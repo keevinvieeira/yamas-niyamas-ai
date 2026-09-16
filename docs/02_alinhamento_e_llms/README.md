@@ -50,10 +50,26 @@ flowchart LR
 
 ---
 
+---
+
+## 4. Estudo Comparativo de Fronteira: Anthropic $\times$ Microsoft $\times$ Yamas/Niyamas
+
+Análise crítica detalhada confrontando os três paradigmas contemporâneos de governança e alinhamento:
+- 📄 **Acesse o documento completo:** [`comparativo_microsoft_anthropic_yamas.md`](./comparativo_microsoft_anthropic_yamas.md)
+
+| Paradigma | Documento Base | Foco Central | Limitação Principal |
+| :--- | :--- | :--- | :--- |
+| **Anthropic** | *Claude's Constitution* (2023) | RLAIF e contenção negativa (*Harmlessness*). | Principialismo deôntico ocidental e propensão à super-recusa. |
+| **Microsoft AI** | *Humanist AI Code of Conduct* (2026) | Humanismo instrumental corporativo e governança hierárquica. | Foco legalista/contratual sem derivação matemática para travas de controle. |
+| **Nossa Pesquisa** | *Matriz Tripartite Yamas/Niyamas & Teoria de Controle* | Virtudes operacionais ativas e travas matemáticas rigorosas. | Supera o viés eurocêntrico integrando Índia, China e Safe RL. |
+
+---
+
 ## 📚 Bibliografia Específica do Módulo
 - **Amodei, D. et al.** (2016). *Concrete Problems in AI Safety*. arXiv:1606.06565.
 - **Anthropic** (2023). *Claude's Constitution*. Anthropic Blog.
 - **Bai, Y. et al.** (2022). *Constitutional AI: Harmlessness from AI Feedback*. arXiv:2212.08073.
 - **Christiano, P. et al.** (2017). *Deep Reinforcement Learning from Human Preferences*. NeurIPS.
+- **Microsoft AI** (2026). *Humanist AI Code of Conduct: The intended behavior and values of MAI models*. Disponível em: <https://microsoft.ai/code-of-conduct/>.
 - **Ouyang, L. et al.** (2022). *Training language models to follow instructions with human feedback*. NeurIPS.
 - **Russell, S.** (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
