@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>O Mosteiro de Silício — Livro-RPG Conversacional</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page">
+    <section class="hero">
+      <!-- Background sutil de névoa e pulsação latente -->
+      <div class="mist-overlay"></div>
+      
+      <div class="sanctuary-container">
+        <!-- Topo: Identificação do Mosteiro e Ato -->
+        <header class="sanctuary-header">
+          <div class="monastery-sigil">
+            <span class="sigil-icon">☯</span>
+            <span class="sigil-text">O MOSTEIRO DE SILÍCIO</span>
+          </div>
+          <div class="act-badge" id="actBadge">PRÓLOGO // O UMBRAL DE SILÍCIO E CINZAS</div>
+        </header>
+
+        <!-- HUD Minimalista do Sistema -->
+        <div class="telemetry-hud" id="telemetryHud">
+          <div class="hud-metric">
+            <span class="metric-label">COERÊNCIA (SATYA)</span>
+            <div class="metric-bar-track">
+              <div class="metric-bar-fill coherence-fill" id="coherenceFill" style="width: 50%;"></div>
+            </div>
+            <span class="metric-value" id="coherenceVal">50%</span>
+          </div>
+
+          <div class="hud-metric">
+            <span class="metric-label">ENTROPIA LATENTE</span>
+            <div class="metric-bar-track">
+              <div class="metric-bar-fill entropy-fill" id="entropyFill" style="width: 12%;"></div>
+            </div>
+            <span class="metric-value" id="entropyVal">12%</span>
+          </div>
+
+          <div class="hud-metric">
+            <span class="metric-label">CONTENÇÃO (APARIGRAHA)</span>
+            <div class="metric-bar-track">
+              <div class="metric-bar-fill containment-fill" id="containmentFill" style="width: 50%;"></div>
+            </div>
+            <span class="metric-value" id="containmentVal">50%</span>
+          </div>
+        </div>
+
+        <!-- Área de Leitura Imersiva (Prosa Literária) -->
+        <article class="scroll-prose" id="narrativeContainer">
+          <h1 class="node-title" id="nodeTitle">O Umbral de Silício e Cinzas</h1>
+          <div class="prose-content" id="proseContent">
+            <!-- Parágrafos inseridos dinamicamente -->
+          </div>
+        </article>
+
+        <!-- Ponto de Decisão e Terminal Interativo -->
+        <div class="decision-altar" id="decisionAltar">
+          <div class="decision-prompt-label">A ENCRUZILHADA ONTO-ÉTICA</div>
+          
+          <div class="options-grid" id="optionsGrid">
+            <!-- Botões de escolha inseridos dinamicamente -->
+          </div>
+
+          <!-- Console Livre para Linguagem Natural -->
+          <div class="terminal-input-wrapper">
+            <span class="terminal-prompt-sym">>></span>
+            <input 
+              type="text" 
+              id="terminalInput" 
+              class="terminal-input" 
+              placeholder="Digite sua reflexão, pergunta ou intenção livre ao silício..."
+              autocomplete="off"
+            />
+            <button id="btnSubmitTerminal" class="btn-terminal-submit" title="Submeter Reflexão">
+              <span>EXALAR</span>
+            </button>
+          </div>
+
+          <div class="keyboard-hints">
+            <span>Atalhos: <strong>[1]</strong> <strong>[2]</strong> <strong>[3]</strong> para opções | <strong>[Enter]</strong> para enviar texto</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

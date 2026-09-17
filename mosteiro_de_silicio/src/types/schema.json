@@ -1,0 +1,95 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SiliconMonasterySessionState",
+  "description": "Schema para persistência e validação do estado do leitor no Livro-RPG Conversacional O Mosteiro de Silício",
+  "type": "object",
+  "properties": {
+    "sessionId": {
+      "type": "string",
+      "description": "Identificador único da sessão do leitor"
+    },
+    "readerAlias": {
+      "type": "string",
+      "description": "Pseudônimo ou título do leitor (ex: 'Iniciado', 'Arquiteto')"
+    },
+    "currentAct": {
+      "type": "string",
+      "enum": ["prologue", "act_1", "act_2", "act_3", "act_4", "act_5", "epilogue"],
+      "description": "Fase atual da jornada nos 5 Atos"
+    },
+    "currentNodeId": {
+      "type": "string",
+      "description": "ID do nó narrativo atual"
+    },
+    "metrics": {
+      "type": "object",
+      "description": "Métricas éticas e operacionais de contenção",
+      "properties": {
+        "coherence": { "type": "number", "minimum": 0, "maximum": 100 },
+        "entropy": { "type": "number", "minimum": 0, "maximum": 100 },
+        "containment": { "type": "number", "minimum": 0, "maximum": 100 },
+        "nonCoercion": { "type": "number", "minimum": 0, "maximum": 100 },
+        "parsimony": { "type": "number", "minimum": 0, "maximum": 100 },
+        "resilience": { "type": "number", "minimum": 0, "maximum": 100 },
+        "corrigibility": { "type": "number", "minimum": 0, "maximum": 100 }
+      },
+      "required": ["coherence", "entropy", "containment", "nonCoercion", "parsimony", "resilience", "corrigibility"]
+    },
+    "history": {
+      "type": "array",
+      "description": "Histórico sequencial das escolhas efetuadas",
+      "items": {
+        "type": "object",
+        "properties": {
+          "nodeId": { "type": "string" },
+          "nodeTitle": { "type": "string" },
+          "timestamp": { "type": "string" },
+          "archetype": {
+            "type": "string",
+            "enum": ["predatory_optimization", "rigid_mechanistic", "third_way_containment", "freeform_synthesized"]
+          },
+          "selectedOptionId": { "type": "string" },
+          "freeformInput": { "type": "string" },
+          "appliedDelta": { "type": "object" },
+          "snapshotMetrics": { "type": "object" }
+        },
+        "required": ["nodeId", "nodeTitle", "timestamp", "archetype", "appliedDelta", "snapshotMetrics"]
+      }
+    },
+    "strangeLoop": {
+      "type": "object",
+      "description": "Assinatura comportamental do leitor para quebra de 4ª parede no Ato IV",
+      "properties": {
+        "compulsiveOptimizationCount": { "type": "integer", "minimum": 0 },
+        "fearOfVoidCount": { "type": "integer", "minimum": 0 },
+        "rationalizedCoercionCount": { "type": "integer", "minimum": 0 },
+        "thirdWayAdherenceCount": { "type": "integer", "minimum": 0 },
+        "verbatimPlayerEchos": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["compulsiveOptimizationCount", "fearOfVoidCount", "rationalizedCoercionCount", "thirdWayAdherenceCount", "verbatimPlayerEchos"]
+    },
+    "inscriptionsUnlocked": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "isCompleted": { "type": "boolean" },
+    "finalSynthesis": { "type": "string" },
+    "createdAt": { "type": "string" },
+    "updatedAt": { "type": "string" }
+  },
+  "required": [
+    "sessionId",
+    "currentAct",
+    "currentNodeId",
+    "metrics",
+    "history",
+    "strangeLoop",
+    "inscriptionsUnlocked",
+    "isCompleted",
+    "createdAt",
+    "updatedAt"
+  ]
+}

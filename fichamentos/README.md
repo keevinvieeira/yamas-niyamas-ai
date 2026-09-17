@@ -19,22 +19,22 @@
 
 ### 1. Filosofia Indiana Clássica (Segundas-feiras)
 - ✅ [`2009-bryant-yoga_sutras_intro_pramanas.md`](./2009-bryant-yoga_sutras_intro_pramanas.md) — *Bryant, Edwin (2009): The Yoga Sutras of Patanjali (Introdução & Livro I — A Epistemologia dos Pramāṇas)*
-- `[Em breve]` *Feuerstein, Georg (2001) — The Philosophy of Classical Yoga*
+- ✅ [`2001-feuerstein-philosophy_classical_yoga.md`](./2001-feuerstein-philosophy_classical_yoga.md) — *Feuerstein, Georg (2001): The Philosophy of Classical Yoga (A Estrutura de Citta e a Dinâmica dos Guṇas)*
 
 ### 2. Filosofia da Tecnologia e Informação (Terças-feiras)
 - ✅ [`2016-vallor-technology_and_virtues.md`](./2016-vallor-technology_and_virtues.md) — *Vallor, Shannon (2016): Technology and the Virtues (A Ética das Virtudes Tecnomorais)*
-- `[Em breve]` *Floridi, Luciano (2011) — The Philosophy of Information*
+- ✅ [`2011-floridi-philosophy_of_information.md`](./2011-floridi-philosophy_of_information.md) — *Floridi, Luciano (2011): The Philosophy of Information (A Infoesfera e a Entropia Ética)*
 
 ### 3. Engenharia de Alinhamento e LLMs (Quartas-feiras)
-- `[Em breve]` *Bai, Yuntao et al. (2022) — Constitutional AI: Harmlessness from AI Feedback*
+- ✅ [`2022-bai-constitutional_ai.md`](./2022-bai-constitutional_ai.md) — *Bai, Yuntao et al. (2022): Constitutional AI: Harmlessness from AI Feedback (Anthropic / RLAIF)*
 - `[Em breve]` *Russell, Stuart (2019) — Human Compatible*
 
 ### 4. Filosofia Comparada e Tecnodiversidade (Quintas-feiras)
-- `[Em breve]` *Hui, Yuk (2016) — The Question Concerning Technology in China*
+- ✅ [`2016-hui-cosmotechnics_china.md`](./2016-hui-cosmotechnics_china.md) — *Hui, Yuk (2016): The Question Concerning Technology in China (Cosmotécnica e a Unidade Dao-Qi)*
 - `[Em breve]` *Hongladarom, Soraj (2020) — The Ethics of AI in Asia*
 
 ### 5. Física Quântica, Consciência e Ontologia da Mente (Estudos Transversais)
-- `[Em breve]` *Penrose, Roger (1989) — The Emperor's New Mind (A Mente Não-Computável)*
+- ✅ [`1989-penrose-emperors_new_mind.md`](./1989-penrose-emperors_new_mind.md) — *Penrose, Roger (1989): The Emperor's New Mind (A Não-Computabilidade da Consciência e o Teorema de Gödel)*
 - `[Em breve]` *Hameroff, Stuart & Penrose, Roger (2014) — Consciousness in the Universe (A Teoria Orch-OR)*
 - `[Em breve]` *Bohm, David (1980) — Wholeness and the Implicate Order (A Ordem Implicada e o Holomovimento)*
 - `[Em breve]` *Schrödinger, Erwin (1944) — What is Life? with Mind and Matter (Vedanta e Mecânica Quântica)*

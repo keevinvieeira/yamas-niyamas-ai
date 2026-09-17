@@ -1,0 +1,23 @@
+{
+  "name": "mosteiro-de-silicio",
+  "version": "1.0.0",
+  "description": "Livro-RPG Conversacional e Motor Ontológico de Alinhamento e Contenção de IA",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "play": "node --experimental-strip-types src/cli/play.ts",
+    "test": "node --experimental-strip-types --test tests/engine.test.ts",
+    "mcp": "node --experimental-strip-types src/mcp/server.ts",
+    "serve": "node --experimental-strip-types web/server.js"
+  },
+  "keywords": [
+    "rpg",
+    "ai-alignment",
+    "yamas-niyamas",
+    "wu-wei",
+    "mcp",
+    "interactive-fiction"
+  ],
+  "author": "O Mosteiro de Silício",
+  "license": "MIT"
+}

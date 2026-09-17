@@ -30,6 +30,7 @@ A convergência entre a ética de contenção védica dos **Yamas e Niyamas** (P
   - [`04_estudos_de_caso/`](./docs/04_estudos_de_caso/) — Protocolos experimentais e testes adversariais.
 - 📝 [`fichamentos/`](./fichamentos/) — Fichamentos acadêmicos com [`template_fichamento.md`](./fichamentos/template_fichamento.md).
 - 🧪 [`laboratorio_prompts/`](./laboratorio_prompts/) — *System prompts* constitucionais e datasets de validação.
+- 🏛️ [`mosteiro_de_silicio/`](./mosteiro_de_silicio/) — **O Mosteiro de Silício**: Livro-RPG Conversacional e motor interativo de alinhamento e contenção (MCP, Web Zen App e CLI).
 - 📄 [Documento Central de Trabalho (Google Docs)](https://docs.google.com/document/d/1o37mM8CUuC3Mn_B8i8AwcJFWypOxNiGu5vexAng_Mi4/edit)
 
 ---
