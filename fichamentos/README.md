@@ -27,6 +27,7 @@
 
 ### 3. Engenharia de Alinhamento e LLMs (Quartas-feiras)
 - ✅ [`2022-bai-constitutional_ai.md`](./2022-bai-constitutional_ai.md) — *Bai, Yuntao et al. (2022): Constitutional AI: Harmlessness from AI Feedback (Anthropic / RLAIF)*
+- ✅ [`2026-algolia-hallucination_mitigation_enterprise_search.md`](./2026-algolia-hallucination_mitigation_enterprise_search.md) — *Algolia AI Team (2026): Hallucination Mitigation in Enterprise Search (Grounding, RAG e Lógica da Abstenção)*
 - `[Em breve]` *Russell, Stuart (2019) — Human Compatible*
 
 ### 4. Filosofia Comparada e Tecnodiversidade (Quintas-feiras)
