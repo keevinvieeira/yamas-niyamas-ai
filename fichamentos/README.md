@@ -28,14 +28,14 @@
 ### 3. Engenharia de Alinhamento e LLMs (Quartas-feiras)
 - ✅ [`2022-bai-constitutional_ai.md`](./2022-bai-constitutional_ai.md) — *Bai, Yuntao et al. (2022): Constitutional AI: Harmlessness from AI Feedback (Anthropic / RLAIF)*
 - ✅ [`2026-algolia-hallucination_mitigation_enterprise_search.md`](./2026-algolia-hallucination_mitigation_enterprise_search.md) — *Algolia AI Team (2026): Hallucination Mitigation in Enterprise Search (Grounding, RAG e Lógica da Abstenção)*
-- `[Em breve]` *Russell, Stuart (2019) — Human Compatible*
+- ✅ [`2019-russell-human_compatible.md`](./2019-russell-human_compatible.md) — *Russell, Stuart (2019): Human Compatible: Artificial Intelligence and the Problem of Control (Incerteza e CIRL)*
 
 ### 4. Filosofia Comparada e Tecnodiversidade (Quintas-feiras)
 - ✅ [`2016-hui-cosmotechnics_china.md`](./2016-hui-cosmotechnics_china.md) — *Hui, Yuk (2016): The Question Concerning Technology in China (Cosmotécnica e a Unidade Dao-Qi)*
-- `[Em breve]` *Hongladarom, Soraj (2020) — The Ethics of AI in Asia*
+- ✅ [`2020-hongladarom-ethics_ai_asia.md`](./2020-hongladarom-ethics_ai_asia.md) — *Hongladarom, Soraj (2020): The Ethics of AI in Asia (Budismo, Anattā e Redução do Sofrimento)*
 
 ### 5. Física Quântica, Consciência e Ontologia da Mente (Estudos Transversais)
 - ✅ [`1989-penrose-emperors_new_mind.md`](./1989-penrose-emperors_new_mind.md) — *Penrose, Roger (1989): The Emperor's New Mind (A Não-Computabilidade da Consciência e o Teorema de Gödel)*
-- `[Em breve]` *Hameroff, Stuart & Penrose, Roger (2014) — Consciousness in the Universe (A Teoria Orch-OR)*
-- `[Em breve]` *Bohm, David (1980) — Wholeness and the Implicate Order (A Ordem Implicada e o Holomovimento)*
-- `[Em breve]` *Schrödinger, Erwin (1944) — What is Life? with Mind and Matter (Vedanta e Mecânica Quântica)*
+- ✅ [`2014-hameroff_penrose-consciousness_orch_or.md`](./2014-hameroff_penrose-consciousness_orch_or.md) — *Hameroff, Stuart & Penrose, Roger (2014): Consciousness in the Universe (A Teoria Orch-OR e Microtúbulos)*
+- ✅ [`1980-bohm-wholeness_implicate_order.md`](./1980-bohm-wholeness_implicate_order.md) — *Bohm, David (1980): Wholeness and the Implicate Order (O Holomovimento e a Ordem Implicada)*
+- ✅ [`1944-schrodinger-what_is_life_mind_matter.md`](./1944-schrodinger-what_is_life_mind_matter.md) — *Schrödinger, Erwin (1944/1958): What is Life? with Mind and Matter (Negentropia, Consciência Singular e Vedanta)*
